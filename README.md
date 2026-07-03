@@ -14,7 +14,6 @@
 
 Motivated IT student at **Adventist University of Central Africa (AUCA)**, expected to graduate in **2027**, with a strong foundation in programming, database management, web development, Linux systems, and networking. I learn best by building full projects end-to-end — from systems programming to distributed applications to server administration and deployment.
 
-Fluent in **Kinyarwanda** and **English**, with basic knowledge of **French**.
 
 ## 🔧 Tech Stack
 
