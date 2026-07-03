@@ -23,26 +23,16 @@ Information management student at AUCA, learning by building full projects end-t
   
 ## 🌱 Currently learning
 
-Distributed systems, DevOps practices, and server administration — mostly through hands-on projects rather than tutorials.
+Distributed systems and server administration — mostly through hands-on projects rather than tutorials.
 
 ## Skills
 
-- HTML
-- CSS
-- JavaScript
-- C Programming
-- SQL
-- Git & GitHub
-- Linux
-- Java
-
-
-- Build Healthcare Software
-- Learn DevOps
-- Contribute to Open Source
+- HTML- CSS- JavaScript- C Programming
+- SQL- Git & GitHub- Linux- Java
 
 ## Contact
 
-LinkedIn:
-Email:
-Portfolio:
+-LinkedIn:Niyonkuru Yabesi
+
+-Email:niyonkuruyabesi@gmail.com
+
